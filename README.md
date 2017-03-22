@@ -1,3 +1,5 @@
+# ⚠️︎ Work on the SuperNOVA Engine most likely won't start until NOVA reaches release 1.0.0
+
 [![Build Status](https://img.shields.io/travis/NOVA-Team/SuperNOVA.svg?style=flat-square)](https://travis-ci.org/NOVA-Team/SuperNOVA)
 [![Coverage](https://img.shields.io/codecov/c/github/NOVA-Team/SuperNOVA.svg?style=flat-square)](https://codecov.io/github/NOVA-Team/SuperNOVA)
 [![Tests](https://img.shields.io/jenkins/t/http/ci.novaapi.net/SuperNOVA.svg?style=flat-square)](http://ci.novaapi.net/job/SuperNOVA/lastCompletedBuild/testReport/)
